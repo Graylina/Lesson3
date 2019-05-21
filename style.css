@@ -5,15 +5,18 @@ body{
     padding-left: 100px;
     padding-bottom: 5px;
     padding-top: 10px;
-    color: rgb(168, 16, 118);
+    color: rgb(221, 126, 17);
     font-size: 150%;
 }
 table{
   border: 6px solid lightblue;
   border-spacing: 10px;
-  background-color: rgb(218, 147, 174);
+  /*background-color: rgb(218, 147, 174);*/
+  background: url('sum.jpg') no-repeat 50% 50% /cover;
   
 }
+
+
 div{
     background-color: lightblue;
     background-size: 290px 255px;
